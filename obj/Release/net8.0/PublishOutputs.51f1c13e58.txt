@@ -1,0 +1,7 @@
+C:\temp\webapp\Dotnet\publish\Dotnet.exe
+C:\temp\webapp\Dotnet\publish\appsettings.Development.json
+C:\temp\webapp\Dotnet\publish\appsettings.json
+C:\temp\webapp\Dotnet\publish\Dotnet.dll
+C:\temp\webapp\Dotnet\publish\Dotnet.deps.json
+C:\temp\webapp\Dotnet\publish\Dotnet.runtimeconfig.json
+C:\temp\webapp\Dotnet\publish\Dotnet.pdb
